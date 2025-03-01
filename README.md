@@ -1,4 +1,5 @@
 # Hi there, I'm Arman 👋
+# 皆さん、こんにちは！アーマンです！
 
 I’m a Data Science student in the Florida Atlantic University Honors College who’s a lover of programming and all kinds of making! I’m interested in generative neural networks for use in medical imaging.
 
